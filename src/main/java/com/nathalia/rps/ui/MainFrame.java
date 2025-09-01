@@ -44,7 +44,6 @@ public class MainFrame extends JFrame {
     private final ComputerStrategy cpuStrategy = new RandomStrategy();
 
     public MainFrame() {
-        super(- "RPS - Hogwarts Edition");
 
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setSize(760, 520);

@@ -2,8 +2,8 @@ com/nathalia/rps/strategy/CyclicStrategy.class
 com/nathalia/rps/model/MoveType.class
 com/nathalia/rps/model/Rock.class
 com/nathalia/rps/model/MoveFactory.class
-com/nathalia/rps/model/Paper.class
 com/nathalia/rps/ui/MainFrame.class
+com/nathalia/rps/model/Paper.class
 com/nathalia/rps/model/Move.class
 com/nathalia/rps/strategy/RandomStrategy.class
 com/nathalia/rps/model/Scissors.class
